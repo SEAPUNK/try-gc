@@ -1,0 +1,24 @@
+{
+  "name": "try-gc",
+  "version": "1.0.0",
+  "description": "safe calls to gc()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/seapunk/try-gc.git"
+  },
+  "keywords": [
+    "gc",
+    "memory",
+    "garbage collection"
+  ],
+  "author": "ivan k <ivan@sq10.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seapunk/try-gc/issues"
+  },
+  "homepage": "https://github.com/seapunk/try-gc#readme"
+}
