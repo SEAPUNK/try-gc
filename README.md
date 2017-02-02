@@ -1,4 +1,6 @@
 # try-gc
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/SEAPUNK/try-gc.svg)](https://greenkeeper.io/)
 gc() only when it is available
 
 ```javascript
